@@ -1,0 +1,20 @@
+{
+  "name": "mernblog",
+  "version": "1.0.0",
+  "description": "This is a full-stack MERN (MongoDB, Express, React, Node.js) blog application with user authentication using JSON Web Tokens (JWT). Users can create, read, and edit blog posts. This README provides an overview of the application's features and instructions for running it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node api/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmalShalabi/mern-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmalShalabi/mern-blog/issues"
+  },
+  "homepage": "https://github.com/AmalShalabi/mern-blog#readme"
+}
